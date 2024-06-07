@@ -3,7 +3,7 @@ I'm Rafael, a programming enthusiast diving into the fascinating world of web de
 My journey here is not just about mastering languages and frameworks; it's about embracing the joy of creation, problem-solving, and continuous learning.
 
 ----------------
-I am a software engineer studying and coding every day to build the applications of my dreams.<br><br>
+
 💻 +1 year of experience as a Software Developer<br>
 
 
