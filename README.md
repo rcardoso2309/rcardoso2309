@@ -1,4 +1,4 @@
-I'm Rafael, a programming enthusiast diving into the fascinating world of web development. As a beginner, I'm currently exploring the realms of HTML, CSS, and JavaScript, while also delving into the exciting ecosystems of Node.js and React.
+I'm a programming enthusiast diving into the fascinating world of web development. As a beginner, I'm currently exploring the realms of HTML, CSS, and JavaScript, while also delving into the exciting ecosystems of Node.js and React.
 
 My journey here is not just about mastering languages and frameworks; it's about embracing the joy of creation, problem-solving, and continuous learning.
 
