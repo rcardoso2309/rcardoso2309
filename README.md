@@ -4,7 +4,7 @@ My journey here is not just about mastering languages and frameworks; it's about
 
 ----------------
 
-💻 +1 year of experience as a Software Developer<br>
+💻  Software Developer<br>
 
 
 # 💻 Tech Stack:
